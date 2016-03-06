@@ -1,0 +1,44 @@
+#lnkHome{
+    color: white;
+}
+#lnkPoll{
+    color: white;
+}
+#lnkContrib{
+    color: white;
+}
+#lnkAdmin{
+    color: white;
+}
+#lnkUser{
+    color: white;
+}
+#lnkLogout{
+    color: white;
+}
+#lnkHome:hover{
+    background-color: #2aabd2;
+    color: white;
+}
+#lnkPoll:hover{
+    background-color: #2aabd2;
+    color: white;
+}
+#lnkContrib:hover{
+    background-color: #2aabd2;
+    color: white;
+}
+#lnkAdmin:hover{
+    background-color: #2aabd2;
+    color: white;
+}#lnkUser:hover {
+     background-color: #2aabd2;
+     color: white;
+ }
+#lnkLogout:hover {
+    background-color: #eb9316;
+    color: white;
+}
+#txtLog{
+    color: #ffffff;
+}
